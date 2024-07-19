@@ -1,6 +1,6 @@
 ---
-title: CustomizedLLMApp
-emoji: 💬
+title: Trading Advisor
+emoji: 📈
 colorFrom: yellow
 colorTo: purple
 sdk: gradio
